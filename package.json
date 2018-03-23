@@ -1,0 +1,22 @@
+{
+  "name": "tendermint-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Snixells/tendermint-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Snixells/tendermint-test/issues"
+  },
+  "homepage": "https://github.com/Snixells/tendermint-test#readme",
+  "dependencies": {
+    "lotion": "^0.1.16"
+  }
+}
